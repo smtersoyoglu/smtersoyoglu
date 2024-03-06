@@ -1,6 +1,6 @@
-![MasterHead](https://www.zealousweb.com/wp-content/uploads/2020/05/Banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Samet Ersoyoğlu</h1>
 <h3 align="center">I'm Computer Engineer with a keen interest in Coding.</h3>
+<img align = "right" alt = "AndroidKotlinIcon" width = "300" src="https://github.com/smtersoyoglu/smtersoyoglu/blob/main/AndroidKotlinIcon.png">
 
 - 🔭 I’m currently working on **Kotlin-Android Programming**
 
